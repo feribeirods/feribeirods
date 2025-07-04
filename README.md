@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white">
 </p>
 
 ---
@@ -14,10 +15,10 @@
 Sou **Desenvolvedor Fullstack** com mais de **3 anos** de experiência no desenvolvimento de soluções web robustas e eficientes. Trabalho com diversas tecnologias como:
 
 🔹 **PHP**, **Laravel**  
-🔹 **JavaScript**, **Vue.js**, **Sass**, **Bootstrap**  
+🔹 **JavaScript**, **Vue.js**, **React**, **Sass**, **Bootstrap**  
 🔹 **SQL** (forte experiência) e **MongoDB** (básico)
 
-💡 Sou apaixonado por transformar desafios complexos em soluções práticas e organizadas, com foco na qualidade e inovação.
+💡 Tenho grande paixão por transformar desafios complexos em soluções práticas e bem organizadas. Sou movido pela curiosidade e pelo desejo constante de **aprender novas linguagens** e **explorar novas tecnologias**, sempre buscando evoluir como profissional e criar projetos inovadores.
 
 ---
 
@@ -26,15 +27,16 @@ Sou **Desenvolvedor Fullstack** com mais de **3 anos** de experiência no desenv
 ✅ **Formado em Direito (2017)**  
 ✅ **Aprovado no Exame da OAB (2016)**  
 ✅ **Transição para tecnologia iniciada em 2020**  
-✅ Desde então, mergulhei no universo do desenvolvimento, combinando conhecimentos jurídicos e tecnológicos para criar soluções úteis e criativas.
+✅ Desde então, venho combinando conhecimentos jurídicos e tecnológicos para criar soluções úteis e criativas.
 
 ---
 
 ### 💡 Áreas de interesse
 - 🌐 Desenvolvimento web fullstack
 - 🗄 Bancos de dados relacionais e NoSQL
-- 🏗 Arquitetura de software
+- ⚙ Arquitetura de software
 - 🚀 Soluções criativas para problemas reais
+- 📚 Aprendizado contínuo em novas linguagens e ferramentas
 
 ---
 
@@ -42,9 +44,3 @@ Sou **Desenvolvedor Fullstack** com mais de **3 anos** de experiência no desenv
 
 Se quiser trocar ideias, colaborar em projetos ou discutir novas ideias, será um prazer!  
 Entre em contato e vamos criar algo incrível juntos. 😊
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/674621/119895492-8f88b380-bf02-11eb-89ef-b3d1f86a7f9f.png" width="200">
-</p>
